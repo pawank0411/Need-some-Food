@@ -9,6 +9,10 @@
   "author": "@pritam",
   "license": "ISC",
   "dependencies": {
-    "node": "^12.8.1"
-  }
+    "mocha": "^6.2.2",
+    "mongoose": "^5.7.6",
+    "node": "^12.8.1",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {}
 }
